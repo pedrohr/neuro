@@ -1,0 +1,21 @@
+# started 2014-09-15T08:44:17Z
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/ontology/diseasesdb> "1142".
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/ontology/icd10> "F84.0".
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/ontology/icd9> "299.00".
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/ontology/omim> "209850"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/ontology/medlineplus> "001526".
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/ontology/emedicineSubject> "med"@en .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/ontology/emedicineTopic> "3202"@en .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/ontology/meshId> "D001321".
+<http://dbpedia.org/resource/Autism> <http://xmlns.com/foaf/0.1/name> "Autism"@en .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/name> "Aristotle"@en .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/birthYear> "0384"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Western_philosophy> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/era> <http://dbpedia.org/resource/Ancient_philosophy> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Biology> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Parmenides> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Western_philosophy> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Christian_philosophy> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Age_of_Enlightenment> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Islamic_philosophy> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Jewish_philosophy> .
